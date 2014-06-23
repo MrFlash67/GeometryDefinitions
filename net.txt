@@ -1,0 +1,2 @@
+A net is a representation of a shape in the dimension. So the net of a cub is made of squares, and the net of a hypercube is made of cubes.
+[insert pictures here]
