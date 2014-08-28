@@ -1,0 +1,1 @@
+A cube is a 3-dimensional object, one of the most common ones. It is the 3-dimensional representation of a square, with 6 sides, 8 vertices, and 12 edges.
